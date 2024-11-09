@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mauricep0205
+- 👀 I’m interested in Data Science, Machine Learning, Game Development, and Mobile App Development
+- 🌱 I’m currently learning Javascript, Swift, Python.
+- 😄 Pronouns: Any/All

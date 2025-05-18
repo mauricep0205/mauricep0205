@@ -1,7 +1,8 @@
-- ## Welcome to my Humble Abode 👋
+## Welcome to my Humble Abode 👋
 
 Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary interests are in game development, back-end development, and data science
 - I’m currently learning Python and GDScript
+- I started programming from an early age with Lua programming on Roblox, then changed my major a year into college once I remembered my love for coding
 - Pronouns: Any/All
 
 ## My Current Skills and Experiences

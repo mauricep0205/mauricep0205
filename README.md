@@ -17,6 +17,6 @@ Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary i
 - PowerShell 7 for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
 
 ## Current Projects
-- Completing the Boot.dev[url=boot.dev] Back-end Developer Path course
+- Completing the [Boot.dev](boot.dev) Back-end Developer Path course
 - An RPG co-developed with a friend, the details are still being ironed out as we speak
 - Building side Godot projects to learn the engine

@@ -13,9 +13,9 @@ Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary i
 - PC Builder and Repairer
 
 ## Main Tools Used
-- PyCharm, IntelliJ, (Neo)Vim for IDEs
+- VSCode/VSCodium and (Neo)Vim for IDEs
 - Krita, ClipStudioPaint and Blender for Artwork
-- PowerShell 7 for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
+- PowerShell 7 with WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
 
 ## Current Projects
 - Completing Revature training

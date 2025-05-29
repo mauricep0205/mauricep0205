@@ -1,10 +1,11 @@
 ## Welcome to my Humble Abode 👋
 
 Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary interests are in game development, back-end development, and data science
+- Pronouns: Any/All
 - I’m currently learning Python and GDScript
 - I started programming from an early age with Lua programming on Roblox
 - Came to really love programming once I got into College and was exposed to C++ and Java
-- Pronouns: Any/All
+- If you'd like to learn about any of the projects I've worked on, feel free to ask!
 
 ## My Current Skills and Experiences
 - Programming Languages w/ Most Experience: Java, Python, C++, C#

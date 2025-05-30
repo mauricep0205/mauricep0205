@@ -2,28 +2,13 @@
 
 Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary interests are in game development, back-end development, and data science
 - Pronouns: Any/All
+- I graduated from Florida International University with a Bachelor's of Science in CompSci
 - I’m currently learning Python and GDScript
 - I started programming from an early age with Lua programming on Roblox
 - Came to really love programming once I got into College and was exposed to C++ and Java
 - If you'd like to learn about any of the projects I've worked on, feel free to ask!
 
-## My Current Skills and Experiences
-- Programming Languages w/ Most Experience: Java, Python, C++, C#
-- Also know a little bit of: C, Swift, Kotlin
-- Operating Systems: Windows, MacOS, EndeavourOS, Debian, Linux Mint, CachyOS, Archcraft, Fedora
-- Programming Skills: Game Development, Software Development, Data Science
-- PC Builder and Repairer
-
-## Main Tools Used
-- VSCode/VSCodium and (Neo)Vim for IDEs
-- Krita, ClipStudioPaint and Blender for Artwork
-- PowerShell 7 with WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
-
-## Current Projects
-- Completing Revature training
-- Completing the [Boot.dev](boot.dev) Back-end Developer Path course
-- An RPG co-developed with a friend, the details are still being ironed out as we speak
-- Building side Godot projects to learn the engine
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricep0205&show_icons=true&theme=synthwave)
 
 ## Visual Techstack
 <div align="center">
@@ -60,3 +45,15 @@ Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary i
 		</tr>
 	</table>
 </div>
+
+## Main Tools Used
+- EndeavourOS and Windows 10 for Main OS
+- VSCode/VSCodium and (Neo)Vim for IDEs
+- Krita, ClipStudioPaint and Blender for Artwork
+- PowerShell 7 with WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
+
+## Current Projects
+- Completing Revature training
+- Completing the [Boot.dev](boot.dev) Back-end Developer Path course
+- An RPG co-developed with a friend, the details are still being ironed out as we speak
+- Building side Godot projects to learn the engine

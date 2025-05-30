@@ -3,10 +3,9 @@
 Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary interests are in game development, back-end development, and data science
 - Pronouns: Any/All
 - I graduated from Florida International University with a Bachelor's of Science in CompSci
-- I’m currently learning Python and GDScript
 - I started programming from an early age with Lua programming on Roblox
 - Came to really love programming once I got into College and was exposed to C++ and Java
-- If you'd like to learn about any of the projects I've worked on, feel free to ask!
+- PC Buiilder/Repairer
 
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricep0205&show_icons=true&theme=synthwave)
 

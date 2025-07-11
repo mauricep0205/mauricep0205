@@ -49,10 +49,9 @@ Hello! My name's Mauricio Piedra, and I'm an aspiring programmer whose primary i
 - EndeavourOS and Windows 10 for Main OS
 - VSCode/VSCodium and (Neo)Vim for IDEs
 - Krita, ClipStudioPaint and Blender for Artwork
-- PowerShell 7 with WSL for Windows Terminal, Wizterm for MacOS Terminal and Linux Terminal
+- PowerShell 7 with WSL for Windows Terminal, Kitty Term for MacOS Terminal and Linux Terminal
 
 ## Current Projects
-- Completing Revature training
 - Completing the [Boot.dev](boot.dev) Back-end Developer Path course
 - An RPG co-developed with a friend, the details are still being ironed out as we speak
 - Building side Godot projects to learn the engine
